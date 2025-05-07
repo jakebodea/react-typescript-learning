@@ -16,14 +16,14 @@ Each `level-XX-<topic>` directory corresponds to a specific level in the learnin
     *   Evaluation Criteria for the project
 
 *   `project_starter/`: This directory is where you should initialize and build the hands-on project for the level.
-    *   `README.md`: Contains initial instructions on how to set up your React + TypeScript project within this folder (e.g., using Create React App or Vite).
+    *   `ASSIGNMENT_README.md`: Contains initial instructions on how to set up your React + TypeScript project within this folder (e.g., using Create React App or Vite).
 
 ## How to Use
 
 1.  Navigate to the directory for the level you are working on (e.g., `cd level-01-intro-react-typescript`).
 2.  Read the `instructions.md` file carefully to understand the goals and the project for that level.
 3.  Navigate into the `project_starter` subdirectory (`cd project_starter`).
-4.  Initialize your React + TypeScript project there, as guided by the `project_starter/README.md`.
+4.  Initialize your React + TypeScript project there, as guided by the `project_starter/ASSIGNMENT_README.md`.
 5.  Implement the project, focusing on the key topics and objectives for that level.
 6.  Use the evaluation criteria in `instructions.md` to test your project.
 
